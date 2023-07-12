@@ -152,3 +152,49 @@
 11.07.2023 23:06:24 HTTP ERRO: Unable to connect to 'http://billboards.eut2.online.scssoft.com/eut2/billboards/v1'
 11.07.2023 23:06:24 LINK ERRO: Unable to connect.
 12.07.2023 00:00:18  LOG INFO: Stopped
+12.07.2023 14:36:13  LOG INFO: Started
+12.07.2023 14:36:15 SOCK ERRO: S2556:connect('52.218.57.52:80') failed 10061
+12.07.2023 14:36:15 SOCK ERRO: S2556:connect('52.218.92.60:80') failed 10061
+12.07.2023 14:36:15 SOCK ERRO: S2408:connect('52.218.112.140:80') failed 10061
+12.07.2023 14:36:15 SOCK ERRO: S2408:connect('52.92.34.4:80') failed 10061
+12.07.2023 14:36:15 SOCK ERRO: S2408:connect('52.92.36.36:80') failed 10061
+12.07.2023 14:36:15 SOCK ERRO: S2408:connect('52.92.36.100:80') failed 10061
+12.07.2023 14:36:15 SOCK ERRO: S2408:connect('52.218.41.116:80') failed 10061
+12.07.2023 14:36:15 SOCK ERRO: Unable to establish connection to any address for host 'lscreens.eut2.online.scssoft.com:80'
+12.07.2023 14:36:15 HTTP ERRO: Unable to connect to 'http://lscreens.eut2.online.scssoft.com/eut2/lscr/data'
+12.07.2023 14:36:15 LINK ERRO: Unable to connect.
+12.07.2023 14:36:15 SOCK ERRO: S2460:connect('52.218.30.4:80') failed 10061
+12.07.2023 14:36:15 SOCK ERRO: S2460:connect('52.218.56.92:80') failed 10061
+12.07.2023 14:36:15 SOCK ERRO: S2460:connect('52.218.62.116:80') failed 10061
+12.07.2023 14:36:15 SOCK ERRO: S2460:connect('52.218.89.12:80') failed 10061
+12.07.2023 14:36:15 SOCK ERRO: S2460:connect('52.218.89.244:80') failed 10061
+12.07.2023 14:36:15 SOCK ERRO: S2460:connect('52.218.97.20:80') failed 10061
+12.07.2023 14:36:15 SOCK ERRO: S2460:connect('52.92.32.36:80') failed 10061
+12.07.2023 14:36:15 SOCK ERRO: S2460:connect('52.218.24.92:80') failed 10061
+12.07.2023 14:36:15 SOCK ERRO: Unable to establish connection to any address for host 'mrk-lscreens.eut2.online.scssoft.com:80'
+12.07.2023 14:36:15 HTTP ERRO: Unable to connect to 'http://mrk-lscreens.eut2.online.scssoft.com/eut2/mrk_lscr/data'
+12.07.2023 14:36:15 LINK ERRO: Unable to connect.
+12.07.2023 14:36:20 SOCK ERRO: S3032:connect('185.162.248.108:80') failed 10061
+12.07.2023 14:36:20 SOCK ERRO: Unable to establish connection to any address for host 'patch-notes.eut2.online.scssoft.com:80'
+12.07.2023 14:36:20 HTTP ERRO: Unable to connect to 'http://patch-notes.eut2.online.scssoft.com/eut2/patch_notes/v1/en_gb'
+12.07.2023 14:36:20 LINK ERRO: Unable to connect.
+12.07.2023 14:36:20 SOCK ERRO: S3028:connect('185.162.248.108:80') failed 10061
+12.07.2023 14:36:20 SOCK ERRO: Unable to establish connection to any address for host 'news.eut2.online.scssoft.com:80'
+12.07.2023 14:36:20 HTTP ERRO: Unable to connect to 'http://news.eut2.online.scssoft.com/eut2/news/1.47.2.6s/uk_uk'
+12.07.2023 14:36:20 LINK ERRO: Unable to connect.
+12.07.2023 14:36:21 SOCK ERRO: S3044:connect('185.162.248.108:80') failed 10061
+12.07.2023 14:36:21 SOCK ERRO: Unable to establish connection to any address for host 'news.eut2.online.scssoft.com:80'
+12.07.2023 14:36:21 HTTP ERRO: Unable to connect to 'http://news.eut2.online.scssoft.com/eut2/news/1.47.2.6s/ru_ru?i=78DA758F3D0BC2400C86FF4AC676F04CAE77D7D64951AC1D14113FC622F68682F6A0152D921F6F50709364C943DE07DE21739533308653D3D6E1D903210C02A287EFFA26B4722B5494A3B13197EDDD5FA35D0CF3D0F968BF8EA1B1A3DC202E61BE3DC014B4CAB158BD58CB3F22B236162D6F8EE5A29C41E197A1BB7828F6224D9029CF34271FBD512919E27A20624A9CE3D4658C2AB54C8C9F21E69B9774EDFBEA7CB977A1AF3492F941F585FFD844F22CBDC424FB064AE749DC'
+12.07.2023 14:36:21 LINK ERRO: Unable to connect.
+12.07.2023 14:36:23 SOCK ERRO: S3036:connect('52.218.25.220:80') failed 10061
+12.07.2023 14:36:23 SOCK ERRO: S3036:connect('52.218.30.116:80') failed 10061
+12.07.2023 14:36:23 SOCK ERRO: S3036:connect('52.218.106.76:80') failed 10061
+12.07.2023 14:36:23 SOCK ERRO: S3036:connect('52.92.0.172:80') failed 10061
+12.07.2023 14:36:23 SOCK ERRO: S3036:connect('52.92.18.204:80') failed 10061
+12.07.2023 14:36:23 SOCK ERRO: S3036:connect('52.92.20.4:80') failed 10061
+12.07.2023 14:36:23 SOCK ERRO: S3036:connect('52.92.33.20:80') failed 10061
+12.07.2023 14:36:23 SOCK ERRO: S3036:connect('52.92.33.44:80') failed 10061
+12.07.2023 14:36:23 SOCK ERRO: Unable to establish connection to any address for host 'billboards.eut2.online.scssoft.com:80'
+12.07.2023 14:36:23 HTTP ERRO: Unable to connect to 'http://billboards.eut2.online.scssoft.com/eut2/billboards/v1'
+12.07.2023 14:36:23 LINK ERRO: Unable to connect.
+12.07.2023 16:03:31  LOG INFO: Stopped
