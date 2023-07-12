@@ -1,6 +1,16 @@
 SiiNunit
 {
-news_messages : _nameless.289.4933.e470 {
+news_messages : _nameless.22c.65b5.65c0 {
+ update_timestamp: nil
+ for_version: ""
+ content_id: ""
+ lang_id: ""
+ latest_version: ""
+ latest_version_url: ""
+ messages: 0
+}
+
+news_messages : _nameless.22c.65b5.62c0 {
  update_timestamp: nil
  for_version: ""
  content_id: ""
