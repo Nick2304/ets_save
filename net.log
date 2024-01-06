@@ -198,3 +198,57 @@
 12.07.2023 14:36:23 HTTP ERRO: Unable to connect to 'http://billboards.eut2.online.scssoft.com/eut2/billboards/v1'
 12.07.2023 14:36:23 LINK ERRO: Unable to connect.
 12.07.2023 16:03:31  LOG INFO: Stopped
+26.11.2023 21:42:29  LOG INFO: Started
+26.11.2023 21:42:34 SOCK ERRO: S1976:connect('52.218.96.124:80') failed 10061
+26.11.2023 21:42:34 SOCK ERRO: S1976:connect('52.218.29.68:80') failed 10061
+26.11.2023 21:42:34 SOCK ERRO: S1976:connect('52.92.21.12:80') failed 10061
+26.11.2023 21:42:34 SOCK ERRO: S1976:connect('52.218.106.12:80') failed 10061
+26.11.2023 21:42:34 SOCK ERRO: S1976:connect('52.218.106.4:80') failed 10061
+26.11.2023 21:42:34 SOCK ERRO: S1976:connect('52.218.44.52:80') failed 10061
+26.11.2023 21:42:34 SOCK ERRO: S1976:connect('52.218.29.60:80') failed 10061
+26.11.2023 21:42:34 SOCK ERRO: S1976:connect('52.218.0.36:80') failed 10061
+26.11.2023 21:42:34 SOCK ERRO: Unable to establish connection to any address for host 'lscreens.eut2.online.scssoft.com:80'
+26.11.2023 21:42:34 HTTP ERRO: Unable to connect to 'http://lscreens.eut2.online.scssoft.com/eut2/lscr/data'
+26.11.2023 21:42:34 LINK ERRO: Unable to connect.
+26.11.2023 21:42:34 SOCK ERRO: S2240:connect('52.218.96.124:80') failed 10061
+26.11.2023 21:42:34 SOCK ERRO: S2240:connect('52.218.106.4:80') failed 10061
+26.11.2023 21:42:34 SOCK ERRO: S2240:connect('52.218.106.12:80') failed 10061
+26.11.2023 21:42:34 SOCK ERRO: S2240:connect('52.218.0.36:80') failed 10061
+26.11.2023 21:42:34 SOCK ERRO: S2240:connect('52.92.21.12:80') failed 10061
+26.11.2023 21:42:34 SOCK ERRO: S2240:connect('52.218.29.60:80') failed 10061
+26.11.2023 21:42:34 SOCK ERRO: S2240:connect('52.218.29.68:80') failed 10061
+26.11.2023 21:42:34 SOCK ERRO: S2240:connect('52.218.44.52:80') failed 10061
+26.11.2023 21:42:34 SOCK ERRO: Unable to establish connection to any address for host 'mrk-lscreens.eut2.online.scssoft.com:80'
+26.11.2023 21:42:34 HTTP ERRO: Unable to connect to 'http://mrk-lscreens.eut2.online.scssoft.com/eut2/mrk_lscr/data'
+26.11.2023 21:42:34 LINK ERRO: Unable to connect.
+26.11.2023 21:42:46 SOCK ERRO: S2692:connect('185.162.248.108:80') failed 10061
+26.11.2023 21:42:46 SOCK ERRO: Unable to establish connection to any address for host 'patch-notes.eut2.online.scssoft.com:80'
+26.11.2023 21:42:46 HTTP ERRO: Unable to connect to 'http://patch-notes.eut2.online.scssoft.com/eut2/patch_notes/v1/en_gb'
+26.11.2023 21:42:46 LINK ERRO: Unable to connect.
+26.11.2023 21:42:46 SOCK ERRO: S2692:connect('185.162.248.108:80') failed 10061
+26.11.2023 21:42:46 SOCK ERRO: Unable to establish connection to any address for host 'news.eut2.online.scssoft.com:80'
+26.11.2023 21:42:46 HTTP ERRO: Unable to connect to 'http://news.eut2.online.scssoft.com/eut2/news/1.47.2.6s/uk_uk'
+26.11.2023 21:42:46 LINK ERRO: Unable to connect.
+26.11.2023 21:42:47 SOCK ERRO: S2676:connect('185.162.248.108:80') failed 10061
+26.11.2023 21:42:47 SOCK ERRO: Unable to establish connection to any address for host 'news.eut2.online.scssoft.com:80'
+26.11.2023 21:42:47 HTTP ERRO: Unable to connect to 'http://news.eut2.online.scssoft.com/eut2/news/1.47.2.6s/ru_ru?i=78DA758F410B82401085FFCA1CF5D0F666DBD5B55391501D8488A2A348EE4128059592981FDF52D0AD9977791FCC7BCCE492323134A74BD3D6DD7320064D01440FDF0F4DD706AFA03883B1B1D077F6EDE86FD131A64DD7FBE854C4D4D8D942330ADA1CCEB422AD2CB6BB9768931900E290B2AC8B9C8E55ED43E62EA734B12844433B718A53156AD8C0483D310B671AC27010A8D40A0B3ECB2277DF5F7DED87B2BA8E7D37941A6C7E507DE13FB60CF7127E0B49416F802849CA'
+26.11.2023 21:42:47 LINK ERRO: Unable to connect.
+26.11.2023 21:45:29 SOCK ERRO: S2708:connect('185.162.248.108:80') failed 10061
+26.11.2023 21:45:29 SOCK ERRO: Unable to establish connection to any address for host 'patch-notes.eut2.online.scssoft.com:80'
+26.11.2023 21:45:29 HTTP ERRO: Unable to connect to 'http://patch-notes.eut2.online.scssoft.com/eut2/patch_notes/v1/en_gb'
+26.11.2023 21:45:29 LINK ERRO: Unable to connect.
+26.11.2023 21:45:29 SOCK ERRO: S2772:connect('185.162.248.108:80') failed 10061
+26.11.2023 21:45:29 SOCK ERRO: Unable to establish connection to any address for host 'news.eut2.online.scssoft.com:80'
+26.11.2023 21:45:29 HTTP ERRO: Unable to connect to 'http://news.eut2.online.scssoft.com/eut2/news/1.47.2.6s/ru_ru?i=78DA758F410B82401085FFCA1CF5D0F666DBD5B55391501D8488A2A348EE4128059592981FDF52D0AD9977791FCC7BCCE492323134A74BD3D6DD7320064D01440FDF0F4DD706AFA03883B1B1D077F6EDE86FD131A64DD7FBE854C4D4D8D942330ADA1CCEB422AD2CB6BB9768931900E290B2AC8B9C8E55ED43E62EA734B12844433B718A53156AD8C0483D310B671AC27010A8D40A0B3ECB2277DF5F7DED87B2BA8E7D37941A6C7E507DE13FB60CF7127E0B49416F802849CA'
+26.11.2023 21:45:29 LINK ERRO: Unable to connect.
+26.11.2023 21:45:30 SOCK ERRO: S2800:connect('185.162.248.108:80') failed 10061
+26.11.2023 21:45:30 SOCK ERRO: Unable to establish connection to any address for host 'news.eut2.online.scssoft.com:80'
+26.11.2023 21:45:30 HTTP ERRO: Unable to connect to 'http://news.eut2.online.scssoft.com/eut2/news/1.47.2.6s/ru_ru?i=78DA758F410B82401085FFCA1CF5D0F666DBD5B55391501D8488A2A348EE4128059592981FDF52D0AD9977791FCC7BCCE492323134A74BD3D6DD7320064D01440FDF0F4DD706AFA03883B1B1D077F6EDE86FD131A64DD7FBE854C4D4D8D942330ADA1CCEB422AD2CB6BB9768931900E290B2AC8B9C8E55ED43E62EA734B12844433B718A53156AD8C0483D310B671AC27010A8D40A0B3ECB2277DF5F7DED87B2BA8E7D37941A6C7E507DE13FB60CF7127E0B49416F802849CA'
+26.11.2023 21:45:30 LINK ERRO: Unable to connect.
+26.11.2023 21:45:37 SOCK ERRO: S2800:connect('185.162.248.108:80') failed 10061
+26.11.2023 21:45:37 SOCK ERRO: Unable to establish connection to any address for host 'patch-notes.eut2.online.scssoft.com:80'
+26.11.2023 21:45:37 HTTP ERRO: Unable to connect to 'http://patch-notes.eut2.online.scssoft.com/eut2/patch_notes/v1/en_gb'
+26.11.2023 21:45:37 LINK ERRO: Unable to connect.
+26.11.2023 21:45:47  LOG INFO: Stopped
+05.01.2024 21:02:51  LOG INFO: Started
+06.01.2024 02:12:27  LOG INFO: Stopped

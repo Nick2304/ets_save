@@ -1,7 +1,7 @@
 SiiNunit
 {
-inventory_items_data : _nameless.1ab.0285.3620 {
- items: 113
+inventory_items_data : _nameless.198.5237.97c0 {
+ items: 125
  items[0]: 1
  items[1]: 10
  items[2]: 100
@@ -115,6 +115,18 @@ inventory_items_data : _nameless.1ab.0285.3620 {
  items[110]: 97
  items[111]: 98
  items[112]: 99
+ items[113]: 118
+ items[114]: 119
+ items[115]: 120
+ items[116]: 121
+ items[117]: 122
+ items[118]: 123
+ items[119]: 124
+ items[120]: 125
+ items[121]: 126
+ items[122]: 127
+ items[123]: 128
+ items[124]: 129
  new_items: 0
  sold_items: 0
 }
